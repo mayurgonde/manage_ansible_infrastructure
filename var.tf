@@ -11,9 +11,6 @@ variable "AWS_REGION" {
 variable "AWS_AMI" {
     default = "ami-0685bcc683dadb6b9"
 }
-variable "ubuntu_AMI" {
-    default = "ami-07a00cf47dbbc844c"
-}
 variable "akey" {
     default = ""
 }
